@@ -9,10 +9,8 @@ Las minutas de las reuniones del bloque pueden ser consultadas [aquí](https://g
 ## Líneas de investigación
 El bloque técnico comenzará a desarrollar lineas de investigación y de generación de contenidos para la definición de temas en concreto. A alto nivel los temas a desarrollar son los siguientes:
 
-    | Tema                   | Responsable                      | Repositorio |
-    |------------------------|----------------------------------|-------------|
-    | Fundamentos Básicos    | Baltazar Rodríguez               | [aquí](https://github.com/marmotae/redproblockchain/tree/main/fundamentos_basicos) |
-    | Cripto Activos         | Carmen Fernández                 | [aquí](https://github.com/marmotae/redproblockchain/tree/main/cripto_activos) |
-    | Identidad              | Christian Herdia y José Incera   | [aquí](https://github.com/marmotae/redproblockchain/tree/main/identidad) |
-    | Trazabilidad           | Jose Luis Gonzalez e Igor Rivera | [aquí](https://github.com/marmotae/redproblockchain/tree/main/trazabilidad) |
-    | Contratos Inteligentes | Sin titulaar                     | [aquí](https://github.com/marmotae/redproblockchain/tree/main/contratos_inteligentes) |
+- [Fundamentos Básicos](https://github.com/marmotae/redproblockchain/tree/main/fundamentos_basicos)
+- [Cripto Activos](https://github.com/marmotae/redproblockchain/tree/main/cripto_activos)
+- [Identidad](https://github.com/marmotae/redproblockchain/tree/main/identidad)
+- [Trazabilidad](https://github.com/marmotae/redproblockchain/tree/main/trazabilidad)
+- [Contratos Inteligentes](https://github.com/marmotae/redproblockchain/tree/main/contratos_inteligentes)
