@@ -9,6 +9,7 @@ Las minutas de las reuniones del bloque pueden ser consultadas [aquí](https://g
 ## Líneas de investigación
 El bloque técnico comenzará a desarrollar lineas de investigación y de generación de contenidos para la definición de temas en concreto. A alto nivel los temas a desarrollar son los siguientes:
 
+- [Glosario](https://github.com/marmotae/redproblockchain/tree/main/Repositorios/fundamentos_basicos/glosario.md)
 - [Fundamentos Básicos](https://github.com/marmotae/redproblockchain/tree/main/Repositorios/fundamentos_basicos)
 - [Cripto Activos](https://github.com/marmotae/redproblockchain/tree/main/Repositorios/cripto_activos)
 - [Identidad](https://github.com/marmotae/redproblockchain/tree/main/Repositorios/identidad)
